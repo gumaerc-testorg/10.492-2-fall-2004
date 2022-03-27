@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6984f061-5cd9-9ab6-bd71-77abde1fc132
 resourcetype: Document
 title: 10_492desrepinst.pdf
 uid: e24a2b44-648a-f497-bb63-1b9b5e10b772
