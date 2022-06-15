@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/7895f0b38a9b005091f2bc0091b61271_lecture6.pdf
+file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/7895f0b38a9b005091f2bc0091b61271_lecture6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
