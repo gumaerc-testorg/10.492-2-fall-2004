@@ -7,6 +7,7 @@ file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture3.pdf
 uid: 665db3fe-15fe-26fe-2e47-b3944032f1ac
 ---
 Outline of the lecture covering the following topics: selecting an enzyme catalyst, michaelis-menten kinetics, selectivity and pH and temperature effects on enzyme activity, enzyme stability.
-

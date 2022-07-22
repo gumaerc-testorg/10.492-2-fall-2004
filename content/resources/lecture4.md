@@ -6,6 +6,7 @@ file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture4.pdf
 uid: 51cb92a8-3333-4705-3794-50c651c6d51d
 ---
 Outline of the lecture covering the following topics: competitive inhibition, uncompetitive inhibition, noncompetitive inhibition and the special case of toxicity.
-

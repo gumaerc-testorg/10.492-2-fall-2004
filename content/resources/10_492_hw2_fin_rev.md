@@ -5,6 +5,7 @@ file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 10_492_hw2_fin_rev.pdf
 uid: 870b94f7-718d-c092-514b-8fb57c4b5975
 ---
 Problem set.
-
