@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides guidelines for design reports.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 6984f061-5cd9-9ab6-bd71-77abde1fc132
 ---
 
-Design Report Guidelines ([PDF]({{< baseurl >}}/resources/10_492desrepinst))
+Design Report Guidelines ({{% resource_link e24a2b44-648a-f497-bb63-1b9b5e10b772 "PDF" %}})
 ----------------------------------------------------------------------------
 
 The report will be based on an example of a biocatalytic process developed and/or implemented commercially in industry. You will be assigned a bioconversion and given the appropriate journal reference(s) to obtain information about that reaction. You are to retrieve and read the reference(s), and write a report that answers the following questions:
