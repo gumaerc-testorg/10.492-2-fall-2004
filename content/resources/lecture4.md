@@ -3,6 +3,7 @@ content_type: resource
 description: 'Outline of the lecture covering the following topics: competitive inhibition,
   uncompetitive inhibition, noncompetitive inhibition and the special case of toxicity.'
 file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/51cb92a833334705379450c651c6d51d_lecture4.pdf
+file_size: 267628
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
