@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for the final project design report.
 file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/e24a2b44648af497bb631b9b5e10b772_10_492desrepinst.pdf
+file_size: 30865
 file_type: application/pdf
 learning_resource_types:
 - Projects
