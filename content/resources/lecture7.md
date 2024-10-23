@@ -4,7 +4,7 @@ description: This resource includes information about general design issues, aci
   or basic product formation, exothermic reactions, enzyme instability, substrate/product
   specific issues, substrate solubility, substrate inhibition/toxicity and product
   inhibition/toxicity.
-file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/be1edc1a3962d8bf3471ad7c00e3889b_lecture7.pdf
+file: /ol-ocw-studio-app/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/be1edc1a3962d8bf3471ad7c00e3889b_lecture7.pdf
 file_size: 224992
 file_type: application/pdf
 learning_resource_types:
