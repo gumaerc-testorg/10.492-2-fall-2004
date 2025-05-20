@@ -3,7 +3,7 @@ content_type: resource
 description: 'Outline of the lecture covering the following topics: selecting an enzyme
   catalyst, michaelis-menten kinetics, selectivity and pH and temperature effects
   on enzyme activity, enzyme stability.'
-file: /ol-ocw-studio-app/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/665db3fe15fe26fe2e47b3944032f1ac_lecture3.pdf
+file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/665db3fe15fe26fe2e47b3944032f1ac_lecture3.pdf
 file_size: 191970
 file_type: application/pdf
 learning_resource_types:
