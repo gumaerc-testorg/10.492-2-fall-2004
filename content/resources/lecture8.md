@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Outline of the lecture covering the following topics: the basics and
   a design strategy.'
-file: /ol-ocw-studio-app/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/86248d592409c5021e806f7eff565cb0_lecture8.pdf
+file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/86248d592409c5021e806f7eff565cb0_lecture8.pdf
 file_size: 222638
 file_type: application/pdf
 learning_resource_types:

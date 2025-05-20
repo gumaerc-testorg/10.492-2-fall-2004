@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/c5e94acc6a8cb3a134bb4d0d2d966ab0_lecture9.pdf
+file: /courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/c5e94acc6a8cb3a134bb4d0d2d966ab0_lecture9.pdf
 file_size: 123220
 file_type: application/pdf
 learning_resource_types:
